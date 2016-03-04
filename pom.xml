@@ -82,6 +82,7 @@
     <module>abiquo</module>
     <module>profitbricks</module>
     <module>profitbricks-rest</module>
+    <module>dimensiondata</module>
   </modules>
 
   <build>
